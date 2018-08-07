@@ -1,0 +1,13 @@
+werobot
+cryptography
+flask
+flask-script
+flask-sqlalchemy
+Flask-Migrate
+flask-redis
+flask-caching
+flask-cors
+flask-apscheduler
+retrying
+meinheld
+gunicorn
